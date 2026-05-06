@@ -1,0 +1,114 @@
+{
+    "info": {
+        "author": "Simrat Kaur",
+        "author_email": "simrat.kms@gmail.com",
+        "bugtrack_url": null,
+        "classifiers": [
+            "License :: OSI Approved :: MIT License",
+            "Programming Language :: Python :: 3.12",
+            "Programming Language :: Python :: 3.6",
+            "Programming Language :: Python :: 3.7",
+            "Programming Language :: Python :: 3.8"
+        ],
+        "description": "# TOPSIS-Package Simrat(102203201)\r\n\r\nOverview\r\nTOPSIS (Technique for Order Preference by Similarity to Ideal Solution) is a multi-criteria decision-making (MCDM) technique. This Python package helps you evaluate alternatives based on multiple criteria by calculating the TOPSIS score and ranking them accordingly.\r\n\r\nWith this package, you can:\r\n\r\n1. Input your dataset in CSV format.\r\n2. Specify weights for each criterion.\r\n3. Define whether each criterion is beneficial (+) or non-beneficial (-).\r\n4. Obtain a ranked CSV file as output with TOPSIS scores.\r\n\r\n# Installation\r\n\r\nInstall the package using\r\n` pip install 102203201-simrat`\r\n\r\n# Input Parameters\r\n\r\n1. Input CSV File: Path to your dataset in CSV format.\r\n   The dataset must have at least three columns:\r\n   The first column should contain the names of the alternatives.\r\n   The subsequent columns should contain numeric values for criteria.\r\n2. Weights: Comma-separated numeric values representing the weight of each criterion.\r\n3. Impacts: Comma-separated values (+ or -) indicating whether each criterion is beneficial (+) or non-beneficial (-).\r\n4. Output CSV File Name: Desired file name for the output CSV containing TOPSIS scores and rankings.\r\n\r\n## License\r\n\r\nCopyright (c) 2024 Simrat Kaur\r\n\r\nThis package is licensed under the MIT License.\r\n",
+        "description_content_type": "text/markdown",
+        "docs_url": null,
+        "download_url": null,
+        "downloads": {
+            "last_day": -1,
+            "last_month": -1,
+            "last_week": -1
+        },
+        "dynamic": [
+            "Author",
+            "Author-Email",
+            "Classifier",
+            "Description",
+            "Description-Content-Type",
+            "Home-Page",
+            "License",
+            "Requires-Dist",
+            "Summary"
+        ],
+        "home_page": "https://github.com/simratk05/topsis_py_package_simrat",
+        "keywords": null,
+        "license": "MIT",
+        "license_expression": null,
+        "license_files": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "name": "102203201-simrat",
+        "package_url": "https://pypi.org/project/102203201-simrat/",
+        "platform": null,
+        "project_url": "https://pypi.org/project/102203201-simrat/",
+        "project_urls": {
+            "Homepage": "https://github.com/simratk05/topsis_py_package_simrat"
+        },
+        "provides_extra": null,
+        "release_url": "https://pypi.org/project/102203201-simrat/1.0.0/",
+        "requires_dist": [
+            "numpy",
+            "pandas"
+        ],
+        "requires_python": null,
+        "summary": "It gives the topsis analysis of your csv file with score and rankings.",
+        "version": "1.0.0",
+        "yanked": false,
+        "yanked_reason": null
+    },
+    "last_serial": 27023720,
+    "ownership": {
+        "organization": null,
+        "roles": [
+            {
+                "role": "Owner",
+                "user": "simratk05"
+            }
+        ]
+    },
+    "urls": [
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "eef7bb5c126e4b6cb1810529c04f11f9250180d1487559244cff67dc88d4cbb3",
+                "md5": "73d58a9ea75ffb712ac0e077910a1415",
+                "sha256": "999f39d70eabc3cbe5701f3c4f03d1d961bc697708711e13d366c0e27487c9d4"
+            },
+            "downloads": -1,
+            "filename": "102203201_simrat-1.0.0-py3-none-any.whl",
+            "has_sig": false,
+            "md5_digest": "73d58a9ea75ffb712ac0e077910a1415",
+            "packagetype": "bdist_wheel",
+            "python_version": "py3",
+            "requires_python": null,
+            "size": 4359,
+            "upload_time": "2025-01-19T13:46:59",
+            "upload_time_iso_8601": "2025-01-19T13:46:59.938467Z",
+            "url": "https://files.pythonhosted.org/packages/ee/f7/bb5c126e4b6cb1810529c04f11f9250180d1487559244cff67dc88d4cbb3/102203201_simrat-1.0.0-py3-none-any.whl",
+            "yanked": false,
+            "yanked_reason": null
+        },
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "861880d5ca4c52f8182c38cecb6e190bff09a2a0ebfd5c0624e8db83465bc0d2",
+                "md5": "76446d6b6efde416a271b8e8a95446a2",
+                "sha256": "af336d9451e569366a2bca5a4c1894dfc368667db202b4412c285e12bbbeb379"
+            },
+            "downloads": -1,
+            "filename": "102203201_simrat-1.0.0.tar.gz",
+            "has_sig": false,
+            "md5_digest": "76446d6b6efde416a271b8e8a95446a2",
+            "packagetype": "sdist",
+            "python_version": "source",
+            "requires_python": null,
+            "size": 3927,
+            "upload_time": "2025-01-19T13:47:02",
+            "upload_time_iso_8601": "2025-01-19T13:47:02.075040Z",
+            "url": "https://files.pythonhosted.org/packages/86/18/80d5ca4c52f8182c38cecb6e190bff09a2a0ebfd5c0624e8db83465bc0d2/102203201_simrat-1.0.0.tar.gz",
+            "yanked": false,
+            "yanked_reason": null
+        }
+    ],
+    "vulnerabilities": []
+}

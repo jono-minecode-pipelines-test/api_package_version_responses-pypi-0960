@@ -1,0 +1,100 @@
+{
+    "info": {
+        "author": "Stuti Goyal",
+        "author_email": "gstu180@gmail.com",
+        "bugtrack_url": null,
+        "classifiers": [
+            "Operating System :: OS Independent",
+            "Programming Language :: Python :: 3"
+        ],
+        "description": "# TOPSIS Package\r\n\r\n## Overview\r\nThis package implements the **TOPSIS (Technique for Order of Preference by Similarity to Ideal Solution)** method, which is commonly used for decision-making in multi-criteria problems.\r\n\r\n## Installation\r\nYou can install the package via `pip`:\r\n\r\n```bash\r\npip install 102203166-topsis-stuti\r\n",
+        "description_content_type": "text/markdown",
+        "docs_url": null,
+        "download_url": null,
+        "downloads": {
+            "last_day": -1,
+            "last_month": -1,
+            "last_week": -1
+        },
+        "dynamic": null,
+        "home_page": "https://github.com/stuti-go/topsis-package",
+        "keywords": null,
+        "license": null,
+        "license_expression": null,
+        "license_files": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "name": "102203166-topsis-stuti",
+        "package_url": "https://pypi.org/project/102203166-topsis-stuti/",
+        "platform": null,
+        "project_url": "https://pypi.org/project/102203166-topsis-stuti/",
+        "project_urls": {
+            "Homepage": "https://github.com/stuti-go/topsis-package"
+        },
+        "provides_extra": null,
+        "release_url": "https://pypi.org/project/102203166-topsis-stuti/0.1.1/",
+        "requires_dist": [
+            "numpy"
+        ],
+        "requires_python": ">=3.6",
+        "summary": "A Python package to implement the TOPSIS method for multi-criteria decision analysis.",
+        "version": "0.1.1",
+        "yanked": false,
+        "yanked_reason": null
+    },
+    "last_serial": 27128255,
+    "ownership": {
+        "organization": null,
+        "roles": [
+            {
+                "role": "Owner",
+                "user": "stuts"
+            }
+        ]
+    },
+    "urls": [
+        {
+            "comment_text": null,
+            "digests": {
+                "blake2b_256": "fe2faa4a57bcf153f38e80558848374f687d3c6ff475fdd10544a29be1e13843",
+                "md5": "024ec5a45426ed13eb65d3644d93fd4e",
+                "sha256": "d40b6f01e1c42f2d0e35a9919a7602a538bf42b35df94a8e19362664ca488563"
+            },
+            "downloads": -1,
+            "filename": "102203166_topsis_stuti-0.1.1-py3-none-any.whl",
+            "has_sig": false,
+            "md5_digest": "024ec5a45426ed13eb65d3644d93fd4e",
+            "packagetype": "bdist_wheel",
+            "python_version": "py3",
+            "requires_python": ">=3.6",
+            "size": 2537,
+            "upload_time": "2025-01-25T10:24:43",
+            "upload_time_iso_8601": "2025-01-25T10:24:43.818682Z",
+            "url": "https://files.pythonhosted.org/packages/fe/2f/aa4a57bcf153f38e80558848374f687d3c6ff475fdd10544a29be1e13843/102203166_topsis_stuti-0.1.1-py3-none-any.whl",
+            "yanked": false,
+            "yanked_reason": null
+        },
+        {
+            "comment_text": null,
+            "digests": {
+                "blake2b_256": "ae34efaea2b65b8ada4a2795396b30e538796de2f21aab910e8b74c6d45665c1",
+                "md5": "c280cc5a90da272bf254c4e34b02fb04",
+                "sha256": "a3ac5f2682110335384a311d6116b8478ea32edad7ed87c19d91e7be5e6358ee"
+            },
+            "downloads": -1,
+            "filename": "102203166_topsis_stuti-0.1.1.tar.gz",
+            "has_sig": false,
+            "md5_digest": "c280cc5a90da272bf254c4e34b02fb04",
+            "packagetype": "sdist",
+            "python_version": "source",
+            "requires_python": ">=3.6",
+            "size": 2140,
+            "upload_time": "2025-01-25T10:24:45",
+            "upload_time_iso_8601": "2025-01-25T10:24:45.742492Z",
+            "url": "https://files.pythonhosted.org/packages/ae/34/efaea2b65b8ada4a2795396b30e538796de2f21aab910e8b74c6d45665c1/102203166_topsis_stuti-0.1.1.tar.gz",
+            "yanked": false,
+            "yanked_reason": null
+        }
+    ],
+    "vulnerabilities": []
+}
