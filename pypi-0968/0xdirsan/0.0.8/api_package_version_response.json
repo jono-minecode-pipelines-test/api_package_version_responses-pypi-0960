@@ -1,0 +1,100 @@
+{
+    "info": {
+        "author": "x-projetion",
+        "author_email": "lutfifakee@proton.me",
+        "bugtrack_url": null,
+        "classifiers": [
+            "License :: OSI Approved :: MIT License",
+            "Operating System :: OS Independent",
+            "Programming Language :: Python :: 3"
+        ],
+        "description": "# 0xdirsan\r\n\r\n[![made-with-Python](https://img.shields.io/badge/made%20with-Python-pink.svg)](https://www.python.org/)\r\n[![license](https://img.shields.io/badge/license-MIT-pink.svg)](LICENSE)\r\n[![issues](https://img.shields.io/github/issues/X-Projetion/0xdirsan?color=pink)](https://github.com/X-Projetion/0xdirsan/issues)\r\n\r\n<p align=\"center\">\r\n    <img src=\"https://raw.githubusercontent.com/X-Projetion/0xdirsan/main/0xdirsan.png\" alt=\"0xdirsan\" width=\"60%\">\r\n</p>\r\n<h4 align=\"center\">0xdirsan is a simple program designed to search for directories in the file system</h4>\r\n\r\n# 0xdirsan\r\n0xdirsan is a simple program designed to search for directories within the file system using brute-force with a given list of words.\r\n\r\n## Resources\r\n- [Feature](#feature)\r\n- [Installation](#installation)\r\n- [Pypi](#Pypi)\r\n- [Usage](#usage)\r\n- [Help](#help)\r\n- [Disclaimer](#Disclaimer)\r\n\r\n\r\n## Feature\r\n- Uses multiple threads to speed up the search process.\r\n- Displays HTTP code status and related information for each request.\r\n- Support for custom word lists and configurable number of threads.\r\n\r\n\r\n## Installation\r\nFollow these steps to install 0xdirsan :\r\n\r\n1. **Clone repositori**:\r\n   ```sh\r\n    git clone https://github.com/X-Projetion/0xdirsan.git\r\n    cd 0xdirsan\r\n\r\n2. **Clone repositori**:\r\n   ```sh\r\n   pip install -r requirements.txt\r\n    ```\r\n\r\n\r\n## Pypi Installation\r\n- pip install 0xdirsan\r\n\r\n\r\n## Usage\r\n- python 0xdirsan.py -u <TARGET_URL>\r\n\r\n## Help\r\n```bash\r\nusage: main.py [-h] [-w WORDLIST] -u URL [-t THREADS]\r\n\r\n0xdirsan is a simple program designed to search for directories in a file system\r\n\r\noptional arguments:\r\n  -h, --help            show this help message and exit\r\n  -w WORDLIST, --wordlist WORDLIST\r\n                        Path to wordlist file\r\n  -u URL, --url URL     Target URL use http / https\r\n  -t THREADS, --threads THREADS\r\n                        Number of threads (default 30)\r\n```\r\n### Connect with me:\r\n\r\n- **Website:** [X-Projetion.org](https://x-projetion.org/)\r\n- **Pypi:** [0xdirsan](https://pypi.org/project/0xdirsan/)\r\n- **Instagram:** [@lutfifakee](https://www.instagram.com/lutfifakee/)\r\n  \r\n## Disclaimer\r\nPlease note that 0xdirsan is provided for educational purposes only. Use of this program for unethical or illegal activities is not recommended. The developer is not responsible for any actions taken by users.\r\n\r\n<br>\r\n<p>0xdirsan was developed by X-Projetion, a software developer with a focus on security and penetration testing. You can visit the website <a href=\"https://x-projetion.org/\">X-Projetion.org</a> for more information or follow <a href=\"https://www.instagram. com/lutfifakee/\">Instagram</a> X-Projetion for the latest updates.</p>\r\n\r\n\r\n",
+        "description_content_type": "text/markdown",
+        "docs_url": null,
+        "download_url": null,
+        "downloads": {
+            "last_day": -1,
+            "last_month": -1,
+            "last_week": -1
+        },
+        "dynamic": null,
+        "home_page": null,
+        "keywords": null,
+        "license": null,
+        "license_expression": null,
+        "license_files": null,
+        "maintainer": null,
+        "maintainer_email": null,
+        "name": "0xdirsan",
+        "package_url": "https://pypi.org/project/0xdirsan/",
+        "platform": null,
+        "project_url": "https://pypi.org/project/0xdirsan/",
+        "project_urls": null,
+        "provides_extra": null,
+        "release_url": "https://pypi.org/project/0xdirsan/0.0.8/",
+        "requires_dist": [
+            "requests",
+            "colorama"
+        ],
+        "requires_python": ">=3.6",
+        "summary": "0xdirsan is a simple program designed to search for directories within the file system using brute-force with a given list of words.",
+        "version": "0.0.8",
+        "yanked": false,
+        "yanked_reason": null
+    },
+    "last_serial": 24520537,
+    "ownership": {
+        "organization": null,
+        "roles": [
+            {
+                "role": "Owner",
+                "user": "Lutfifakee"
+            }
+        ]
+    },
+    "urls": [
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "4b64d45cb8da1354be9e7787fa5b6e2be289204459a06b7d87b15befbee9b502",
+                "md5": "4d31e1d0de9420ad2abe5499073e378f",
+                "sha256": "06d7043297e551b7321857d90d4a20b792cfe86f72381105e6436cd825531543"
+            },
+            "downloads": -1,
+            "filename": "0xdirsan-0.0.8-py3-none-any.whl",
+            "has_sig": false,
+            "md5_digest": "4d31e1d0de9420ad2abe5499073e378f",
+            "packagetype": "bdist_wheel",
+            "python_version": "py3",
+            "requires_python": ">=3.6",
+            "size": 5217,
+            "upload_time": "2024-08-11T07:59:18",
+            "upload_time_iso_8601": "2024-08-11T07:59:18.333679Z",
+            "url": "https://files.pythonhosted.org/packages/4b/64/d45cb8da1354be9e7787fa5b6e2be289204459a06b7d87b15befbee9b502/0xdirsan-0.0.8-py3-none-any.whl",
+            "yanked": false,
+            "yanked_reason": null
+        },
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "59a6d30130fe7948e4f5d911def606c6ba88f12a9e54ab0764e8a4dca278ec4a",
+                "md5": "334d49ffdbad309171f571eeb46ddc15",
+                "sha256": "ecb40a545e51d8ff6ba1e353742457d3321aab00262738e8444ae47739224df7"
+            },
+            "downloads": -1,
+            "filename": "0xdirsan-0.0.8.tar.gz",
+            "has_sig": false,
+            "md5_digest": "334d49ffdbad309171f571eeb46ddc15",
+            "packagetype": "sdist",
+            "python_version": "source",
+            "requires_python": ">=3.6",
+            "size": 4699,
+            "upload_time": "2024-08-11T07:59:20",
+            "upload_time_iso_8601": "2024-08-11T07:59:20.526267Z",
+            "url": "https://files.pythonhosted.org/packages/59/a6/d30130fe7948e4f5d911def606c6ba88f12a9e54ab0764e8a4dca278ec4a/0xdirsan-0.0.8.tar.gz",
+            "yanked": false,
+            "yanked_reason": null
+        }
+    ],
+    "vulnerabilities": []
+}
