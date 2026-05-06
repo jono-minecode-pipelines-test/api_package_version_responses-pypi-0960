@@ -1,0 +1,74 @@
+{
+    "info": {
+        "author": "Mindey",
+        "author_email": "~@example.com",
+        "bugtrack_url": null,
+        "classifiers": [],
+        "description": "Hello, ZERO\n===========\n\nUsage\n-----\n\n`pip install 0proto`\n\nThen, simply use the command periodically:\n\n`0proto https://example.com/something/etc`\n\nThis will save data to:\n\n`settings.BASE_DIR/data/0proto-DOMAIN:default/Item`\n\nN-Spacing\n---------\n\nIf you want to seprate different sessions and sources, just use name param:\n\n`0proto URI --name Name`\n\nThis will save to:\n`settings.BASE_DIR/data/0proto-DOMAIN:Name/Type`\n\nThe `--name` value can be arbitray filesystem-compatible filename sub-string, so, you can use it to separate data by accounts, languages, or other features.\n\n**NOTE**: Corresponding auth and session data will be stored in `settings.BASE_DIR/sessions` folder.\n\nSaving to specific DIR\n----------------------\n\nSaving to custom folder simply pass `--path` parameter, like:\n\n`0proto URI --name Name --path /home/mindey/Desktop/mydata`\n",
+        "description_content_type": "",
+        "docs_url": null,
+        "download_url": "",
+        "downloads": {
+            "last_day": -1,
+            "last_month": -1,
+            "last_week": -1
+        },
+        "dynamic": null,
+        "home_page": "https://github.com/example/0proto",
+        "keywords": "",
+        "license": "MIT",
+        "license_expression": null,
+        "license_files": null,
+        "maintainer": "",
+        "maintainer_email": "",
+        "name": "0proto",
+        "package_url": "https://pypi.org/project/0proto/",
+        "platform": "",
+        "project_url": "https://pypi.org/project/0proto/",
+        "project_urls": {
+            "Homepage": "https://github.com/example/0proto"
+        },
+        "provides_extra": null,
+        "release_url": "https://pypi.org/project/0proto/0.0.1/",
+        "requires_dist": null,
+        "requires_python": "",
+        "summary": "Simple PROTO data saver.",
+        "version": "0.0.1",
+        "yanked": false,
+        "yanked_reason": null
+    },
+    "last_serial": 7586879,
+    "ownership": {
+        "organization": null,
+        "roles": [
+            {
+                "role": "Owner",
+                "user": "Mindey"
+            }
+        ]
+    },
+    "urls": [
+        {
+            "comment_text": "",
+            "digests": {
+                "blake2b_256": "c88c1c854ad82cba23aace1406efa2afc7db7f68c6d028c7083b84dfda81c15d",
+                "md5": "15e3c2b6ed835b138bd5494b3285292e",
+                "sha256": "a35f0f9d2c5254fe2ae5eb4c9eed2256f10072e94822f2ac3be16ffe44f448fb"
+            },
+            "downloads": -1,
+            "filename": "0proto-0.0.1.tar.gz",
+            "has_sig": false,
+            "md5_digest": "15e3c2b6ed835b138bd5494b3285292e",
+            "packagetype": "sdist",
+            "python_version": "source",
+            "requires_python": null,
+            "size": 2706,
+            "upload_time": "2020-06-29T12:00:19",
+            "upload_time_iso_8601": "2020-06-29T12:00:19.566781Z",
+            "url": "https://files.pythonhosted.org/packages/c8/8c/1c854ad82cba23aace1406efa2afc7db7f68c6d028c7083b84dfda81c15d/0proto-0.0.1.tar.gz",
+            "yanked": false,
+            "yanked_reason": null
+        }
+    ],
+    "vulnerabilities": []
+}
